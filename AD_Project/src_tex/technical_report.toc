@@ -1,0 +1,9 @@
+\contentsline {section}{\numberline {1}Problem statement}{2}{section.1}%
+\contentsline {section}{\numberline {2}Algorithms}{3}{section.2}%
+\contentsline {subsection}{\numberline {2.1}Algoritm rucsac}{3}{subsection.2.1}%
+\contentsline {subsection}{\numberline {2.2}Explanation of the knapsack algorithm}{3}{subsection.2.2}%
+\contentsline {subsection}{\numberline {2.3}Algorithm for enumerating selected items}{4}{subsection.2.3}%
+\contentsline {subsection}{\numberline {2.4}Explanation of the Algorithm for Enumerating Selected Items}{4}{subsection.2.4}%
+\contentsline {section}{\numberline {3}Experimental Data}{5}{section.3}%
+\contentsline {section}{\numberline {4}Tools used}{7}{section.4}%
+\contentsline {section}{\numberline {5}Results and conclusions}{7}{section.5}%
